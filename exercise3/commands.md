@@ -11,8 +11,9 @@
    ## 1. cal
 
 ```
-cal <year>command is use to display the calender month and date on the terminal
+cal <year>command is used to display the calender month and date on the terminal.
 ```
+   
 <img src="./exercise3/cal.png" alt="drawing" width="800" height="400"/>
 
 
