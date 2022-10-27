@@ -94,9 +94,7 @@ env command is use to display all the environment variables of the user e.g name
 
    ## 7. timedatectl
 
-```
-exit command is use to close the shell environment directly on the terminal
-```
+
 ![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/timedatect.png?raw=true)
 
 
@@ -114,7 +112,7 @@ ifconfig command is use to configure network interface, it displays all the avai
 ![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/ifconfig.png?raw=true)
 
 
-<br>
+<br>https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/gzip.png
 <br>
 <b>
 <br>
@@ -141,5 +139,5 @@ When you execute this help command in Terminal window, it will list all built-in
 ```
 This one is for system administrators who handle and manage various users on Linux system. who command when executed in Terminal show the complete list of those users who are currently logged into Linux system.
 ```
-![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/df command.png?raw=true)
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/df-command.png?raw=true)
 
