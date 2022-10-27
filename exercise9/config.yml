@@ -1,0 +1,26 @@
+---
+- name: Configure Networking tools
+  hosts: 192.168.56.5
+  become: true
+  become_method: sudo
+
+
+  tasks:
+   - name: "install python for Ansible."
+     become: yes
+     apt:
+       name: "python3-pip"
+       update_cache: yes
+       state: present
+
+   - name: Install apache2 Server
+     apt: name=apache2 update_cache=yes state=latest
+
+   - name: Set timezone
+     timezone:
+      name: Africa/Lagos
+
+   - name: Host php file
+     copy:
+      src: /home/index.php
+      dest: /ansible
