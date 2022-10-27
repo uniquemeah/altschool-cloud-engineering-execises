@@ -15,12 +15,6 @@ cal <year>command is used to display the calender month and date on the terminal
 ```
 ![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/cal.png?raw=true)
 
-<!-- ![alt text]([https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/cal.png) -->
-
-   
-<!-- <img src="./exercise3/cal.png" alt="drawing" width="800" height="400"/> -->
-
-
 <br>
 <br>
 <b>
@@ -32,7 +26,7 @@ cal <year>command is used to display the calender month and date on the terminal
 ```
 gzip <filename> command is use to compress any form of file from the terminal and also remove the roiginal file after compressed
 ```
-<img src="./exercise3/gzip.png" alt="drawing" width="800" height="300"/>
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/gzip.png?raw=true)
 
 <br>
 <br>
@@ -45,7 +39,7 @@ gzip <filename> command is use to compress any form of file from the terminal an
 ```
 whatis <commandname> command gives the description of what a particular command does
 ```
-<img src="./exercise3/hostnamectl.png" alt="drawing" width="800" height="400"/>
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/hostnamectl.png?raw=true)
 
 
 
@@ -60,7 +54,7 @@ whatis <commandname> command gives the description of what a particular command 
 ```
 finger <username> command will display all the information of the user like last login, directory, shell environment in use and so on 
 ```
-<img src="./exercise3/finger.png" alt="drawing" width="800" height="300"/>
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/finger.png?raw=true)
 
 
 <br>
@@ -74,7 +68,7 @@ finger <username> command will display all the information of the user like last
 ```
 history command is use to list all the command that has been executed by the user since the OS is installed
 ```
-<img src="./exercise3/history.png" alt="drawing" width="800" height="900"/>
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/history.png?raw=true)
 
 
 <br>
@@ -88,7 +82,7 @@ history command is use to list all the command that has been executed by the use
 ```
 env command is use to display all the environment variables of the user e.g name,language,shell type,pwd etc.
 ```
-<img src="./exercise3/env.png" alt="drawing" width="810" height="900"/>
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/env.png?raw=true)
 
 
 
@@ -103,7 +97,7 @@ env command is use to display all the environment variables of the user e.g name
 ```
 exit command is use to close the shell environment directly on the terminal
 ```
-<img src="./exercise3/timedatectl.png" alt="drawing" width="810" height=""/>
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/timedatect.png?raw=true)
 
 
 <br>
@@ -117,7 +111,7 @@ exit command is use to close the shell environment directly on the terminal
 ```
 ifconfig command is use to configure network interface, it displays all the available network in the OS
 ```
-<img src="./exercise3/ifconfig.png" alt="drawing" width="" height=""/>
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/ifconfig.png?raw=true)
 
 
 <br>
@@ -133,7 +127,7 @@ When you execute this help command in Terminal window, it will list all built-in
 
 
 ```
-<img src="./exercise3/help.png" alt="drawing"/>
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/help.png?raw=true)
 
 
 <br>
@@ -147,5 +141,5 @@ When you execute this help command in Terminal window, it will list all built-in
 ```
 This one is for system administrators who handle and manage various users on Linux system. who command when executed in Terminal show the complete list of those users who are currently logged into Linux system.
 ```
-<img src="./exercise3/df command.png" alt="drawing"/>
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/df command.png?raw=true)
 
