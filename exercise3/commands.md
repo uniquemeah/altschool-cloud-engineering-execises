@@ -13,9 +13,9 @@
 ```
 cal <year>command is used to display the calender month and date on the terminal.
 ```
-<!-- ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true) -->
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/cal.png?raw=true)
 
-![alt text]([https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/cal.png])
+<!-- ![alt text]([https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/cal.png) -->
 
    
 <!-- <img src="./exercise3/cal.png" alt="drawing" width="800" height="400"/> -->
