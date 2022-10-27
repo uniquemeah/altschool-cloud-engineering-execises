@@ -27,7 +27,7 @@ cal <year>command is use to display the calender month and date on the terminal
 ```
 gzip <filename> command is use to compress any form of file from the terminal and also remove the roiginal file after compressed
 ```
-<img src="./exercise3/gzip.png" alt="drawing" width="800" height="300"/>
+<img src="[./exercise3/gzip.png](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/gzip.png)" alt="drawing" width="800" height="300"/>
 
 <br>
 <br>
