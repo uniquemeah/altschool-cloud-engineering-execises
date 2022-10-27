@@ -35,10 +35,7 @@ gzip <filename> command is use to compress any form of file from the terminal an
 
 
    ## 3. hostnamectl
-
-```
-whatis <commandname> command gives the description of what a particular command does
-```
+   
 ![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/hostnamectl.png?raw=true)
 
 
@@ -136,8 +133,5 @@ When you execute this help command in Terminal window, it will list all built-in
 
    ## 10. df command
 
-```
-This one is for system administrators who handle and manage various users on Linux system. who command when executed in Terminal show the complete list of those users who are currently logged into Linux system.
-```
 ![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise3/df-command.png?raw=true)
 
