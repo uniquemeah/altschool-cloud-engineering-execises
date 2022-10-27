@@ -18,5 +18,5 @@
 #### PHP -V
 <br>
 
-![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise5/php-v.png?raw=true)
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise5/php%20-v.png.png?raw=true)
 
