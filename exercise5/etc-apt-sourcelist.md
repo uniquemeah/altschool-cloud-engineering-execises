@@ -5,7 +5,8 @@
 
 #### ETC/APT/SOURCELIST
 <br>
-<img src="./exercise5/sourcelists.png">
+
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise5/sourcelists.png?raw=true)
 
 <br>
 <br>
@@ -16,5 +17,6 @@
 
 #### PHP -V
 <br>
-<img src="./exercise5/php-v.png">
+
+![alt text](https://github.com/uniquemeah/altschool-cloud-engineering-execises/blob/main/exercise5/php-v.png?raw=true)
 
